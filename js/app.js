@@ -105,4 +105,5 @@ function appendOptionButtons(index, todo) {
     //Append option buttons to the todo
     todo.appendChild(deleteButton);
     todo.appendChild(editButton);
+
 }
